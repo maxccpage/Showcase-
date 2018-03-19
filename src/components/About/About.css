@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600');
+
+.About-Container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Part-I {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Part-I h3 {
+  color: white;
+  font-size: 2rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: 'Raleway', 'sans-serif';
+  margin-top: 4rem;
+}
+
+.Part-I p {
+  color: white;
+  font-size: 0.9rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: 'Raleway', 'sans-serif';
+  text-align: center;
+  margin-top: 1rem;
+  line-height: 1.5;
+  padding: 0px 20px;
+}
+
+.Part-II {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Part-II h3 {
+  color: white;
+  font-size: 1.5rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: 'Raleway', 'sans-serif';
+  margin-top: 3rem;
+}
+
+.Tech-Stack {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.Tech-Stack img {
+  margin: 10px 15px;
+  width: 80px;
+  height: 80px;
+}

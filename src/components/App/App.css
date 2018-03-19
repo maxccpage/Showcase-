@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600');
+
+.App-Container {
+  width: 100%;
+  background-image: url('../../assets/Background_image_Mobile@3x.png');
+  background-position: top;
+}
+
+.Intro-Container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Intro-Container h1 {
+  color: white;
+  font-size: 4rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: 'Raleway', 'sans-serif';
+}
+
+.Intro-Container p {
+  color: white;
+  font-size: 1.2rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  line-height: 3;
+  font-family: 'Raleway', 'sans-serif';
+}
+
+hr {
+  width: 20%;
+  border: 2px solid #30dad8;
+}
+
+#Scroll {
+  position: absolute;
+  bottom: 0;
+}
+
+#Scroll span {
+  color: #30dad8;
+}

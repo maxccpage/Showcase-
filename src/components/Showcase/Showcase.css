@@ -1,0 +1,64 @@
+.Recent-Projects h3 {
+  color: white;
+  font-size: 2rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: 'Raleway', 'sans-serif';
+  text-align: center;
+}
+
+.Ind-Project {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Ind-Project img {
+  width: 95%;
+  height: 300px;
+}
+
+.Ind-Project h6 {
+  color: white;
+  font-size: 1.5rem;
+  text-transform: lowercase;
+  font-weight: 600;
+  font-family: 'Raleway', 'sans-serif';
+  text-align: center;
+}
+
+.Ind-Project p {
+  color: white;
+  font-size: 0.8rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: 'Raleway', 'sans-serif';
+  text-align: center;
+  line-height: 1.5;
+  margin: 0.5rem 1rem;
+}
+
+.Ind-Project span {
+  color: #30dad8;
+}
+
+.Ind-Project a {
+  color: white;
+  font-size: 1rem;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: 'Raleway', 'sans-serif';
+  text-align: center;
+  line-height: 1.5;
+  margin: 0.5rem 1rem;
+  text-decoration-color: #30dad8;
+}
+
+#Under-Development {
+  margin-top: 4rem;
+}
+
+#Ride-Share-Img {
+  width: 50%;
+  height: 350px;
+}
