@@ -27,8 +27,8 @@ class About extends Component {
             month accelerated web/app development program at RED Academy where
             my interest quickly transformed into an obsession. When im not
             coding in my living room, you'll find me competing at hackathons,
-            making friends (networking) at local tech events or trying to
-            understand women.
+            making friends (networking) at local tech events or critiquing new
+            albums on the billboard 100.
           </p>
         </div>
         <div className="Part-II">
