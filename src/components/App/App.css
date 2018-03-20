@@ -3,7 +3,7 @@
 .App-Container {
   width: 100%;
   background-image: url('../../assets/Background_image_Mobile@3x.png');
-  background-position: top;
+  background-position: bottom center;
 }
 
 .Intro-Container {

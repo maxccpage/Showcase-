@@ -19,11 +19,16 @@ class About extends Component {
           <hr />
           <p>
             {' '}
-            Max is an entrepreneurial minded, ambitious front end developer with
-            substantial back end exposure.Max is an entrepreneurial minded,
-            ambitious front end developer with substantial back end exposure.Max
-            is an entrepreneurial minded, ambitious front end developer with
-            substantial back end exposure.{' '}
+            An entrepreneurial minded, ambitious front end developer with an eye
+            for design. I began my journey in the tech industry shortly after
+            high school, starting a web design business to fund my failing start
+            up, WeFix Home Solutions. I always had an interest in coding yet
+            decided to skip the computer science degree and dive into a six
+            month accelerated web/app development program at RED Academy where
+            my interest quickly transformed into an obsession. When im not
+            coding in my living room, you'll find me competing at hackathons,
+            making friends (networking) at local tech events or trying to
+            understand women.
           </p>
         </div>
         <div className="Part-II">

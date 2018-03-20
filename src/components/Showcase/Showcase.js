@@ -27,8 +27,11 @@ class ShowCase extends Component {
               their favourite songs, create a playlist and save their new
               playlist to their spotify account{' '}
             </p>
-            <a href="#"> View Project > </a>
-            <a href="#"> View Code > </a>
+            <a href="http://maxccpage-jammming.herokuapp.com">
+              {' '}
+              View Project >{' '}
+            </a>
+            <a href="https://github.com/maxccpage/Jamming"> View Code > </a>
           </div>
           {/* Ravenous Showcase  */}
           <div className="Ind-Project">
@@ -43,8 +46,11 @@ class ShowCase extends Component {
               restaurants located near them. Users are able to sort their
               results by best match, highest rated and most reviewed.
             </p>
-            <a href="#"> View Project > </a>
-            <a href="#"> View Code > </a>
+            <a href="http://maxccpage-ravenous.herokuapp.com">
+              {' '}
+              View Project >{' '}
+            </a>
+            <a href="https://github.com/maxccpage/Ravenous-"> View Code > </a>
           </div>
           {/* Instanews Showcase  */}
           <div className="Ind-Project">
@@ -59,8 +65,11 @@ class ShowCase extends Component {
               visit to get the latest on their favourite topics including
               technology, sports and much more!
             </p>
-            <a href="#"> View Project > </a>
-            <a href="#"> View Code > </a>
+            <a href="https://maxccpage.github.io/Instanews-/">
+              {' '}
+              View Project >{' '}
+            </a>
+            <a href="https://github.com/maxccpage/Instanews-"> View Code > </a>
           </div>
           {/* Boomtown Showcase */}
           <div className="Ind-Project">
@@ -75,8 +84,11 @@ class ShowCase extends Component {
               borrow items from their neighbours! Remember that time your lawn
               mower broke mid mow? Borrow a better one from Jen down the street!
             </p>
-            <a href="#"> View Project (Web Only) > </a>
-            <a href="#"> View Code > </a>
+            <a href="http://maxccpage-boomtown.herokuapp.com">
+              {' '}
+              View Project (Web Only) >{' '}
+            </a>
+            <a href="https://github.com/maxccpage/Boomtown"> View Code > </a>
           </div>
           <h3 id="Under-Development"> under development</h3>
           <hr />
@@ -88,13 +100,12 @@ class ShowCase extends Component {
             </h6>
             <p>
               {' '}
-              maydu is an application built in meteor, an up and coming
-              javascript platform, for university students to connect with
-              fellow classmates and organize study groups. myself and three
-              other developers took on this side project in feburary 2018 and
-              will continue development in our spare time.
+              maydu is an application built in meteor, for university students
+              to connect with fellow classmates and organize study groups.
+              myself and three other developers took on this side project in
+              feburary 2018 and will continue development in our spare time.
             </p>
-            <a href="#"> View Code > </a>
+            <a href="https://github.com/maxccpage/Maydu"> View Code > </a>
           </div>
           <div className="Ind-Project">
             <img id="Ride-Share-Img" src={rideshare} />
@@ -111,7 +122,7 @@ class ShowCase extends Component {
               of the hackathons expectations and plan to continue development on
               our free time!
             </p>
-            <a href="#"> View Code > </a>
+            <a href="https://github.com/maxccpage/Rideshare"> View Code > </a>
           </div>
         </div>
       </div>

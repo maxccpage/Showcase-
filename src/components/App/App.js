@@ -14,7 +14,7 @@ class App extends Component {
           <hr />
           <p id="Scroll">
             {' '}
-            Scroll to <span> view </span>portfolio{' '}
+            Scroll to <span> view </span>projects{' '}
           </p>
         </div>
         <About />
