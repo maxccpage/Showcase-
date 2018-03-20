@@ -1,4 +1,4 @@
-.Recent-Projects h3 {
+.Showcase-Container h3 {
   color: white;
   font-size: 2rem;
   text-transform: lowercase;
@@ -62,4 +62,83 @@
 #Ride-Share-Img {
   width: 50%;
   height: 350px;
+  align-self: center;
+}
+
+@media screen and (min-width: 768px) {
+  .Showcase-Container h3 {
+    font-size: 2.2rem;
+  }
+  .Ind-Project img {
+    width: 70%;
+    height: 350px;
+  }
+
+  #Ride-Share-Img {
+    width: 30%;
+    height: 350px;
+  }
+
+  .Ind-Project a {
+    font-size: 1.1rem;
+  }
+  .Ind-Project p {
+    font-size: 1rem;
+    padding: 0px 40px;
+  }
+  .Ind-Project h6 {
+    font-size: 1.85rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .Recent-Projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .Ind-Project {
+    width: 45%;
+    margin: 0px 25px;
+  }
+  .Ind-Project img {
+    width: 100%;
+    height: 350px;
+  }
+  .Ind-Project p {
+    font-size: 1rem;
+    padding: 0px 5px;
+  }
+  #Ride-Share-Img {
+    width: 47%;
+    height: 350px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .Showcase-Container h3 {
+    font-size: 2.75rem;
+  }
+  .Ind-Project {
+    width: 45%;
+    margin: 0px 25px;
+  }
+  .Ind-Project img {
+    width: 100%;
+    height: 425px;
+  }
+  .Ind-Project p {
+    font-size: 1.2rem;
+    padding: 0px 5px;
+  }
+  #Ride-Share-Img {
+    width: 42.5%;
+    height: 425px;
+  }
+  .Ind-Project a {
+    font-size: 1.25rem;
+  }
+  .Ind-Project h6 {
+    font-size: 2.2rem;
+  }
 }

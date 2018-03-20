@@ -44,3 +44,21 @@ hr {
 #Scroll span {
   color: #30dad8;
 }
+
+@media screen and (min-width: 1024px) {
+  .Intro-Container h1 {
+    font-size: 5.5rem;
+  }
+  .Intro-Container p {
+    font-size: 1.6rem;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .Intro-Container h1 {
+    font-size: 7rem;
+  }
+  .Intro-Container p {
+    font-size: 2.1rem;
+  }
+}

@@ -11,9 +11,9 @@ class ShowCase extends Component {
   render() {
     return (
       <div className="Showcase-Container">
+        <h3> Recent Projects </h3>
+        <hr />
         <div className="Recent-Projects">
-          <h3> Recent Projects </h3>
-          <hr />
           {/* Jammming Showcase  */}
           <div className="Ind-Project">
             <img src={jammming} />
@@ -90,8 +90,7 @@ class ShowCase extends Component {
             </a>
             <a href="https://github.com/maxccpage/Boomtown"> View Code > </a>
           </div>
-          <h3 id="Under-Development"> under development</h3>
-          <hr />
+
           <div className="Ind-Project">
             <img src={maydu} />
             <h6>
@@ -100,10 +99,11 @@ class ShowCase extends Component {
             </h6>
             <p>
               {' '}
-              maydu is an application built in meteor, for university students
-              to connect with fellow classmates and organize study groups.
-              myself and three other developers took on this side project in
-              feburary 2018 and will continue development in our spare time.
+              (currently Under Developent) - maydu is an application built in
+              meteor, for university students to connect with fellow classmates
+              and organize study groups. myself and three other developers took
+              on this side project in feburary 2018 and will continue
+              development in our spare time.
             </p>
             <a href="https://github.com/maxccpage/Maydu"> View Code > </a>
           </div>
@@ -115,12 +115,12 @@ class ShowCase extends Component {
             </h6>
             <p>
               {' '}
-              rideshare is geared towards reducing c02 emission in toronto. a
-              mobile application myself and three other developers began working
-              on at the hack for good hackathon in march 2018. we were able to
-              complete 70% of the applications functionality in 36 hours as part
-              of the hackathons expectations and plan to continue development on
-              our free time!
+              (currently under development) - rideshare is geared towards
+              reducing c02 emission in toronto. a mobile application myself and
+              three other developers began working on at the hack for good
+              hackathon in march 2018. we were able to complete 70% of the
+              applications functionality in 36 hours as part of the hackathons
+              expectations and plan to continue development on our free time!
             </p>
             <a href="https://github.com/maxccpage/Rideshare"> View Code > </a>
           </div>

@@ -61,3 +61,62 @@
   width: 80px;
   height: 80px;
 }
+
+@media screen and (min-width: 768px) {
+  hr {
+    width: 12.5%;
+  }
+  .Part-I h3 {
+    font-size: 2.2rem;
+  }
+
+  .Part-I p {
+    font-size: 1rem;
+    padding: 0px 45px;
+  }
+
+  .Part-II h3 {
+    font-size: 1.7rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .Part-I p {
+    padding: 0 65px;
+  }
+
+  hr {
+    width: 10%;
+  }
+  .Tech-Stack {
+    margin: 0px 200px;
+    margin-top: 1.5rem;
+  }
+  .Tech-Stack img {
+    margin: 10px 15px;
+    width: 90px;
+    height: 90px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .Part-I p {
+    padding: 0 85px;
+    font-size: 1.25rem;
+  }
+  .Part-I h3 {
+    font-size: 2.75rem;
+  }
+  .Part-II h3 {
+    font-size: 2rem;
+  }
+  .Tech-Stack {
+    margin: 0px 300px;
+    margin-top: 1.5rem;
+  }
+  .Tech-Stack img {
+    margin: 10px 20px;
+    width: 100px;
+    height: 100px;
+  }
+}
