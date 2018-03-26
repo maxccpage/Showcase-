@@ -16,7 +16,7 @@
 
 .Ind-Project img {
   width: 95%;
-  height: 300px;
+  height: auto;
 }
 
 .Ind-Project h6 {
@@ -61,7 +61,7 @@
 
 #Ride-Share-Img {
   width: 50%;
-  height: 350px;
+  height: auto;
   align-self: center;
 }
 
@@ -71,12 +71,12 @@
   }
   .Ind-Project img {
     width: 70%;
-    height: 350px;
+    height: auto;
   }
 
   #Ride-Share-Img {
     width: 30%;
-    height: 350px;
+    height: auto;
   }
 
   .Ind-Project a {
@@ -103,7 +103,7 @@
   }
   .Ind-Project img {
     width: 100%;
-    height: 350px;
+    height: atuo;
   }
   .Ind-Project p {
     font-size: 1rem;
@@ -111,7 +111,7 @@
   }
   #Ride-Share-Img {
     width: 47%;
-    height: 350px;
+    height: auto;
   }
 }
 
@@ -125,7 +125,7 @@
   }
   .Ind-Project img {
     width: 100%;
-    height: 425px;
+    height: auto;
   }
   .Ind-Project p {
     font-size: 1.2rem;
@@ -133,7 +133,7 @@
   }
   #Ride-Share-Img {
     width: 42.5%;
-    height: 425px;
+    height: auto;
   }
   .Ind-Project a {
     font-size: 1.25rem;

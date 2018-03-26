@@ -26,9 +26,9 @@ class About extends Component {
             decided to skip the computer science degree and dive into a six
             month accelerated web/app development program at RED Academy where
             my interest quickly transformed into an obsession. When im not
-            coding in my living room, you'll find me competing at hackathons,
-            making friends (networking) at local tech events or critiquing new
-            albums on the billboard 100.
+            coding in my living room, you'll find me competing at
+            hackathons,making friends (networking) at local tech events or
+            critiquing new albums on the billboard 100.
           </p>
         </div>
         <div className="Part-II">

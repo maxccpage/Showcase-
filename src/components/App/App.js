@@ -37,11 +37,15 @@ class App extends Component {
     return (
       <MuiThemeProvider>
         <div className="App-Container">
-          {this.state.isLoading === false ? (
-            <RenderMax />
-          ) : (
-            <CircularProgressExampleSimple />
-          )}
+          <div className="Intro-Container">
+            <h1> Max Page </h1>
+            <p> Front End Developer </p>
+            <hr />
+            <p id="Scroll">
+              {' '}
+              Scroll to <span> view </span>projects{' '}
+            </p>
+          </div>
           <About />
           <ShowCase />
           <Contact />

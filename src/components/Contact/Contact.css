@@ -1,7 +1,7 @@
 .Contact-Container {
   display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .Con-Container h3 {
@@ -15,9 +15,9 @@
 }
 
 .Contact-Container img {
-  height: 50px;
-  width: 70px;
-  margin: 30px 10px;
+  height: 40px;
+  width: 60px;
+  margin: 30px 20px;
 }
 
 .Contact-Container p {
@@ -44,7 +44,7 @@
   .Contact-Container img {
     height: 55px;
     width: 75px;
-    margin: 30px 10px;
+    margin: 30px 25px;
   }
 }
 
@@ -55,7 +55,7 @@
   .Contact-Container img {
     height: 65px;
     width: 85px;
-    margin: 30px 10px;
+    margin: 30px 35px;
   }
 }
 
@@ -66,7 +66,7 @@
   .Contact-Container img {
     height: 80px;
     width: 100px;
-    margin: 30px 10px;
+    margin: 40px 45px;
   }
   .Contact-Container p {
     font-size: 1.3rem;
